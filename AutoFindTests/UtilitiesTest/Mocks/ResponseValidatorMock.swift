@@ -6,7 +6,7 @@
 //
 
 import Foundation
-@testable import AutoFind
+@testable import AutoFind_Dev
 
 struct MockResponseValidator: ResponseValidatableProtocol {
     

@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import AutoFind
+@testable import AutoFind_Dev
 
 final class CarSelectionServicesTest: XCTestCase {
     
