@@ -1,5 +1,10 @@
 # AutoFind
 
+## Description
+A simple Test Application for a company.
+
+## Technical Aspects
+
 - MVVM + Reactive + Coordinator Architecture
 - Completely Native Swift (No Libraries or Dependencies)
 - Generic TableView Data Source
@@ -18,7 +23,7 @@
 - Responsive Design
 - Error Handle
 
-# ScreenShots
+# Screen Shots
 ![ ](https://github.com/EmadBeyrami/AutoFind/blob/main/1.png?raw=true)
 ![ ](https://github.com/EmadBeyrami/AutoFind/blob/main/2.png?raw=true)
 ![ ](https://github.com/EmadBeyrami/AutoFind/blob/main/3.png?raw=true)
