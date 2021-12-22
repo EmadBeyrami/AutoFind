@@ -1,0 +1,16 @@
+//
+//  Production.xcconfig
+//  AutoFind
+//
+//  Created by Emad Bayramy on 12/16/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = AutoFind
+BASE_BUNDLE_ID = com.beyrami.AutoFind
+URL_SCHEME = AutoFind
+APP_ICON = AppIcon
+BASE_API_URL = https:\/\/api-aws-eu-qa-1.auto1-test.com\/
+API_VERSION = v1\/

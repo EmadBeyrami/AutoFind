@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  AutoFind
+
+  Created by Emad Bayramy on 12/22/21.
+  
+*/
+
+"manifacture" = "choose a manufacture";
+"models" = "choose a model";
+"Change_Language" = "Change language";
+"cancel" = "cancel";
+"welldone" = "welldone!" ;
+"toCarSelection" = "to car selection";
+"guideline" = "In this page, you can either change the language or proceed to the app";
+"choosenCar" = "you have choosen %@ Model %@ !";
+"error" = "error";
+"ok" = "Ok";

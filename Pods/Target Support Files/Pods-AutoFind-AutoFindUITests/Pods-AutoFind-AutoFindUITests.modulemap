@@ -1,0 +1,6 @@
+framework module Pods_AutoFind_AutoFindUITests {
+  umbrella header "Pods-AutoFind-AutoFindUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  AutoFind
+
+  Created by Emad Bayramy on 12/22/21.
+  
+*/
+
+"manifacture" = "wähle eine Manufaktur";
+"models" = "Wähle ein Modell";
+"Change_Language" = "Sprache ändern";
+"cancel" = "Abbrechen";
+"welldone" = "gut erledigt!" ;
+"toCarSelection" = "zur Autoauswahl";
+"guideline" = "Auf dieser Seite können Sie entweder die Sprache ändern oder mit der App fortfahren";
+"choosenCar" = "Sie haben %@ Modell %@ gewählt!";
+"error" = "error";
+"ok" = "Ok";
