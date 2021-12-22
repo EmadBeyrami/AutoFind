@@ -13,6 +13,7 @@ A simple Test Application for a company.
 - Localized for 4 Languages
 - Testable (Unit Tests included)
 - 2 development environment (Dev & Production)
+- keyed object json decoder
 - caching system (Testable and Cacheable network layer)
 - Clean Code (SwiftLint included)
 - Fully scalable
